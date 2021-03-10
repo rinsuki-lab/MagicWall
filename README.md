@@ -1,6 +1,6 @@
 #  MagicWall
 
-MagicWall make your desktop to WebView.
+MagicWall make your wallpaper to WebView.
 
 You can play YouTube videos, beautiful WebGL/Three.js demo, etc... in your desktop with MagicWall.
 
